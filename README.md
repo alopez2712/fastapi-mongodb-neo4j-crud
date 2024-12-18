@@ -1,5 +1,7 @@
 # API MongoDB et Neo4j
 
+## API réalisée par Mathis GUILLOU, Mathis BOSSARD et Alexis LOPEZ, étudiants à l'ESEO Angers 
+
 ## Installation 
 
 Pré-requis: Avoir une base de données MongoDB et Neo4J en local sur votre machine. Avoir la base de données de test MOVIES sur MongoDB et Neo4J.
