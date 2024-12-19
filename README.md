@@ -14,6 +14,7 @@ Notre application FastAPI permet d'interagir avec des bases de données MongoDB 
 6. [Préparation des Bases de Données](#préparation-des-bases-de-données)
 7. [Lancement](#lancement)
 8. [API Endpoints](#api-endpoints)
+9. [Structure des Données](#structure-des-données)
 
 
 ## Fonctionnalités
