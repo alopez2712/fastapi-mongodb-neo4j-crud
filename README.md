@@ -14,7 +14,7 @@ Notre application FastAPI permet d'interagir avec des bases de données MongoDB 
 6. [Préparation des Bases de Données](#préparation-des-bases-de-données)
 7. [Lancement](#lancement)
 8. [API Endpoints](#api-endpoints)
-9. Accédez au swagger et testez les routes: http://127.0.0.1:8000/docs
+
 
 ## Fonctionnalités
 
@@ -61,7 +61,7 @@ L'API propose les fonctionnalités suivantes :
 
 ## Configuration
 
-Créez un fichier `.env` à la racine du projet avec les variables suivantes :
+Modifier le fichier `.env` à la racine du projet avec les variables suivantes :
 
 ```
 ATLAS_URI=votre_uri_mongodb
